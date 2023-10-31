@@ -4,7 +4,7 @@ Image to prompt generator API, powered by Replicate. It allows you to generate a
 ## Setup
 1. Clone this repository by running the following command in your console:
 ```bash
- git clone https://github.com/meroitachi/Image2prompt.git
+ git clone https://github.com/meroitachi/Image2prompt.git && cp -r img2prompt/. . && rm -rf img2prompt
  ```
 2. Go to [replicate.com](https://replicate.com/account/api-tokens) and obtain an ``api token``.
 3. Open the ``.env`` file and paste the `api token` in it.
