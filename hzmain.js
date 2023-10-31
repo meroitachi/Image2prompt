@@ -12,7 +12,7 @@ const replicate = new Replicate({
 
 const Key = "api key"; //your custom key
 
-app.get("/prompt", async (req, res) => {
+app.get("/generate", async (req, res) => {
   const ipInfo = getIP(req);
   const ip = ipInfo.clientIp;
   const { apiKey } = req.query;
