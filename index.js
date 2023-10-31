@@ -9,7 +9,7 @@ const replicate = new Replicate({
  auth: api_Key,
 });
 
-const Key = "api key"; //your custom key
+const Key = "key"; //your custom key
 
 app.get("/generate", async (req, res) => {
  const { apiKey } = req.query;
