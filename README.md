@@ -9,10 +9,13 @@ Image to prompt generator API, powered by Replicate. It allows you to generate a
 2. Go to [replicate.com](https://replicate.com/account/api-tokens) and obtain an ``api token``.
 3. Open the ``.env`` file and paste the `api token` in it.
 
-<img src="https://junyanz.github.io/CycleGAN/images/teaser_high_res.jpg" width="800"/>
+<img src="https://i.postimg.cc/59p97pmR/Picsart-23-11-01-03-32-43-529.jpg" width="800"/>
+
+
 
 *Note: If you are using Replit, go to `secrets` and create a new key.* 
-<img src="https://junyanz.github.io/CycleGAN/images/teaser_high_res.jpg" width="800"/>
+
+<img src="https://i.postimg.cc/8cy17P5S/Picsart-23-11-01-03-47-36-969.png" width="800"/>
 
 
 4. Run the following command in your console to install the required dependencies:
