@@ -25,7 +25,11 @@ npm install
 ## Usage
 To use the API, go to the fllowing URL:
 *This is just an example:*
-`localhost:8080/generate?imageUrl=https://i.postimg.cc/mZYvHRBj/received-663003829085228.webp`
+`localhost:8080/generate?imageUrl=https://i.pinimg.com/originals/1e/6c/1d/1e6c1de30e099b4dc589237da3d71ec2.jpg&apiKey=key` 
+
+or 
+
+`example.example.repl.co/generate?imageUrl=https://i.pinimg.com/originals/1e/6c/1d/1e6c1de30e099b4dc589237da3d71ec2.jpg&apiKey=key`
 
 ## Note
 This API can be used to generate prompts from images. It can help artists, writers and other creative people generate new ideas for their work.
