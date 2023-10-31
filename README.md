@@ -1,6 +1,6 @@
 # img2prompt API
 
-This repository contains the code for the img2prompt API, powered by Replicate. It allows you to generate a prompt from an image.
+Image to prompt generator API, powered by Replicate. It allows you to generate a prompt from an image.
 ## Setup
 1. Clone this repository by running the following command in your console:
 ```bash
@@ -20,5 +20,5 @@ npm install
 ```
 ## Usage
 To use the API, go to the fllowing URL:
-*This is just a example:*
+*This is just an example:*
 `localhost:8080/generate?imageUrl=https://i.postimg.cc/mZYvHRBj/received-663003829085228.webp`
